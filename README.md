@@ -1,20 +1,49 @@
 # FUTURE_DS__01
-GitHub repository for Future Interns Data Science &amp; Analytics - Task 1 : Business Sales Dashboard from E-commerce Data
+Business Sales Dashboard – E-Commerce Data
+Future Interns – Data Science & Analytics Internship | Task 1
 
-Project Overview:-
+This project analyzes e-commerce sales data to identify best-selling products, revenue trends, and high-performing product categories. The objective is to transform raw sales records into meaningful insights using an interactive Power BI dashboard.
 
-This project focuses on analyzing e-commerce sales data to create an interactive business sales dashboard. The primary goal is to identify key business insights, including best-selling products, sales trends over time, and high-revenue product categories. This dashboard aims to empower businesses with data-driven insights for strategic decision-making.
+Objectives
 
-Skills Developed:-
+Identify top-selling products and categories
 
-Through the completion of this task, I have developed and honed the following skills:
+Analyze overall revenue trends across time
 
-1. Data Cleaning and Preparation: Ensuring data quality and readiness for analysis.
+Evaluate region-wise performance
 
-2. DAX (Data Analysis Expressions): Crafting powerful formulas and measures within Power BI for insightful calculations. 
+Visualize patterns that support data-driven business decisions
 
-3. Trend Analysis: Identifying patterns and changes in sales data over various periods. 
 
-4. Business Storytelling: Presenting complex data in a clear, concise, and actionable narrative format. 
+Tools and Skills Power BI, Excel/CSV Dataset, Power Query, DAX, Trend Analysis, Business Storytelling
 
-5. Interactive Dashboard Design: Creating user-friendly and dynamic visualizations.
+Key Insights
+
+Products generating the highest revenue and overall demand
+
+Category-wise contribution to total sales
+
+Seasonal and monthly sales trend identification
+
+Regional performance comparison and distribution
+
+
+Deliverables
+
+Interactive Power BI dashboard
+
+Summary of insights for business decisions
+
+
+Repository Structure FUTURE_DS_01
+│— Sales_Dashboard.pbix
+│— Task_1_Report.pdf
+│— Dataset
+└— README.md
+
+Insight Summary The analysis showed that a small set of products and categories generated the majority of total revenue, indicating strong customer preference and profit concentration opportunities. Time-based sales trends revealed clear seasonal peaks and periods of decline, highlighting scope for promotional planning. Additionally, regional analysis exposed notable performance gaps across locations, allowing better resource and marketing alignment. The dashboard provides clear visibility into sales performance, helping decision-makers prioritize growth strategies and improve revenue outcomes.
+
+Outcome This task strengthened skills in data visualization, analytical reasoning, dashboard design, and converting raw data into strategic insights.
+
+Author Aayush Raj
+Data Science & Analytics Intern – Future Interns
